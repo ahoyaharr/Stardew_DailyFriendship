@@ -1,0 +1,5 @@
+C:\Users\a\Documents\Visual Studio 2015\Projects\SDV_AdditionalDailyFriendship\SDV_AdditionalDailyFriendship\bin\Debug\SDV_AdditionalDailyFriendship.dll
+C:\Users\a\Documents\Visual Studio 2015\Projects\SDV_AdditionalDailyFriendship\SDV_AdditionalDailyFriendship\bin\Debug\SDV_AdditionalDailyFriendship.pdb
+C:\Users\a\Documents\Visual Studio 2015\Projects\SDV_AdditionalDailyFriendship\SDV_AdditionalDailyFriendship\obj\Debug\SDV_AdditionalDailyFriendship.csprojResolveAssemblyReference.cache
+C:\Users\a\Documents\Visual Studio 2015\Projects\SDV_AdditionalDailyFriendship\SDV_AdditionalDailyFriendship\obj\Debug\SDV_AdditionalDailyFriendship.dll
+C:\Users\a\Documents\Visual Studio 2015\Projects\SDV_AdditionalDailyFriendship\SDV_AdditionalDailyFriendship\obj\Debug\SDV_AdditionalDailyFriendship.pdb
